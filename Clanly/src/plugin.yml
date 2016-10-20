@@ -1,0 +1,8 @@
+main: me.meepidy.clanly.Main
+name: Clanly
+version: 0.0.1
+author: Meepidy
+
+commands:
+  clan:
+    aliases: [cl]
